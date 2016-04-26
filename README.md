@@ -10,12 +10,10 @@
 ![](/Snip20160307_2.PNG)
 
 
+
+
 ## Author
 
-Weibo: [@确实草蛋]
+Weibo:[@老实人要刨你家祖坟了](http://weibo.com/caoeggs)
 
-Github: [houyukun]
-
-
-[1]: http://weibo.com/caoeggs/home?wvr=5&sudaref=www.baidu.com
-[2]: https://github.com/houyukun/
+Github:[houyukun](https://github.com/houyukun) 
